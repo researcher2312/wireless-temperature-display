@@ -1,0 +1,1 @@
+Wireless device similar to a photo frame, capable of measuring and displaying temperature and other data, displaying user defined text and images and communicating with other devices using MQTT protocol. Low energy consumption will be achieved thanks to e-ink display and sleep mode usage.
