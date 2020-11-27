@@ -62,8 +62,6 @@ void Error_Handler(void);
 #define SET_GPIO_Port GPIOA
 #define MODE_Pin GPIO_PIN_1
 #define MODE_GPIO_Port GPIOA
-#define ESP_CS_Pin GPIO_PIN_2
-#define ESP_CS_GPIO_Port GPIOA
 #define EPD_CS_Pin GPIO_PIN_3
 #define EPD_CS_GPIO_Port GPIOA
 #define MEM_CS_Pin GPIO_PIN_4
@@ -72,11 +70,7 @@ void Error_Handler(void);
 #define EPD_BUSY_GPIO_Port GPIOB
 #define LED1_Pin GPIO_PIN_13
 #define LED1_GPIO_Port GPIOB
-#define LED2_Pin GPIO_PIN_14
-#define LED2_GPIO_Port GPIOB
-#define LED3_Pin GPIO_PIN_15
-#define LED3_GPIO_Port GPIOB
-#define STAT_Pin GPIO_PIN_10
+#define STAT_Pin GPIO_PIN_8
 #define STAT_GPIO_Port GPIOA
 #define EPD_DC_Pin GPIO_PIN_8
 #define EPD_DC_GPIO_Port GPIOB
